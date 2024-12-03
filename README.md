@@ -1,7 +1,6 @@
-# react-next-laravel-crud-apps
+# react-next-laravel-crud-apps [In Progress]
 
-A collection of simple CRUD (Create, Read, Update, Delete) applications developed using **React.js**, **Next.js**, and **Laravel** to master the basics and gradually advance in these frameworks.  
-This repository is designed for learning and experimentation purposes. 🚀
+A collection of simple CRUD (Create, Read, Update, Delete) applications developed using **React.js**, **Next.js**, and **Laravel** to master the basics and gradually advance in these frameworks.  This repository is designed for learning and experimentation purposes. 🚀
 
 ## Overview
 This project covers CRUD implementations across various frameworks and stacks. It aims to provide hands-on practice while exploring best practices in frontend and backend development.
